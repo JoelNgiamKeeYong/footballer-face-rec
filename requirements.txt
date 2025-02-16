@@ -1,0 +1,15 @@
+# Core dependencies
+streamlit>=1.28.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Face recognition dependencies
+face-recognition>=1.3.0
+dlib>=19.24.0
+
+# Threading and system utilities
+pathlib>=1.0.1
+
+# Optional but recommended for better performance
+streamlit-webrtc>=0.47.1
